@@ -4,5 +4,5 @@
 
 ###Project submission of MAD, Assignment-2
 
-#Collage blog system
-##-A blog system for specific a collage and limited to a collage to know others activities and share all your activities.
+#college  blog system
+##-A blog system for specific a college  and limited to a college to know others activities and share all your activities.
