@@ -27,7 +27,7 @@ class DashboardFragment : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.fragment_dashboard)
+        setContentView(R.layout.fragment_upload)
         /**set data*/
 
         var button_choose_image = findViewById<Button>(R.id.button_choose_image)
